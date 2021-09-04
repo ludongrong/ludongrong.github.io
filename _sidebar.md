@@ -5,3 +5,6 @@
   - [activiti designer的使用](activiti/activiti_designer_use.md)
 - c
   - [在win上搭建C/C++的开发环境](c/c_set_up.md)
+- sql
+  - [sql条件的使用](sql/sql_condition.md "sql条件的使用")
+

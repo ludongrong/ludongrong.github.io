@@ -18,6 +18,10 @@ https://www.jetbrains.com/clion/download/#section=windows
 
 ### 配置MinGW
 
+https://www.jetbrains.com/help/clion/quick-tutorial-on-configuring-clion-on-windows.html#MinGW
+
+
+
 ![824862-20200613210250306-1650665366](https://raw.githubusercontent.com/ludongrong/OSSRH-62326/main/img20210901173108.png)
 
 
